@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\ApiPeliculas\ApiPeliculas.domain\bin\Debug\net5.0\ApiPeliculas.Domain.deps.json
+C:\Users\Pedro\Desktop\ApiPeliculas\ApiPeliculas.domain\bin\Debug\net5.0\ApiPeliculas.Domain.runtimeconfig.json
+C:\Users\Pedro\Desktop\ApiPeliculas\ApiPeliculas.domain\bin\Debug\net5.0\ApiPeliculas.Domain.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\ApiPeliculas\ApiPeliculas.domain\bin\Debug\net5.0\ApiPeliculas.Domain.dll
+C:\Users\Pedro\Desktop\ApiPeliculas\ApiPeliculas.domain\bin\Debug\net5.0\ref\ApiPeliculas.Domain.dll
+C:\Users\Pedro\Desktop\ApiPeliculas\ApiPeliculas.domain\bin\Debug\net5.0\ApiPeliculas.Domain.pdb
+C:\Users\Pedro\Desktop\ApiPeliculas\ApiPeliculas.domain\obj\Debug\net5.0\ApiPeliculas.Domain.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\ApiPeliculas\ApiPeliculas.domain\obj\Debug\net5.0\ApiPeliculas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\ApiPeliculas\ApiPeliculas.domain\obj\Debug\net5.0\ApiPeliculas.Domain.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\ApiPeliculas\ApiPeliculas.domain\obj\Debug\net5.0\ApiPeliculas.Domain.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\ApiPeliculas\ApiPeliculas.domain\obj\Debug\net5.0\ApiPeliculas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\ApiPeliculas\ApiPeliculas.domain\obj\Debug\net5.0\ApiPeliculas.Domain.dll
+C:\Users\Pedro\Desktop\ApiPeliculas\ApiPeliculas.domain\obj\Debug\net5.0\ref\ApiPeliculas.Domain.dll
+C:\Users\Pedro\Desktop\ApiPeliculas\ApiPeliculas.domain\obj\Debug\net5.0\ApiPeliculas.Domain.pdb
+C:\Users\Pedro\Desktop\ApiPeliculas\ApiPeliculas.domain\obj\Debug\net5.0\ApiPeliculas.Domain.genruntimeconfig.cache
